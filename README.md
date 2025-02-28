@@ -16,4 +16,3 @@ git add<arquivo1> <arquivo2>... <arquivoN>
  ```bash
  git add .
  ```
- 
